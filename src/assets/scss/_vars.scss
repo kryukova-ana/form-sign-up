@@ -1,45 +1,9 @@
 /* base fonts */
 
-$ff: 	'OpenSans', sans-serif; /* font family */
-$ff_2: 	'Roboto', sans-serif; /* font family */
-$fs: 	13px; /* font size */
-$lh: 	24px; /* line height */
-$fs-1: 15px;
-$ws: 1140px; /*width*/
-
-/* grid */
-
-$space: 	8; /* spacing grid */
-$grid_pad: 	$space*2; /* padding column */
-$page_wr: 	1792 + $grid_pad*2; /* max-width content */
-
+$ff: 	'Rubik'; /* font family */
+$fs: 	20px; /* font size */
+$lh:    24px; /* line-height */
 
 /* color */
-$blue: #1A9EE8;
-$green:         #74BB49;
-$orange:        #F5662D;
-$dark-black: 	#000;
-$l-black: #222;
-$black: 		#000000;
-$gray: 			#999;
-$gray-light: 	#EFF2F4;
-$gray-max-light: #F9F9F9;
-$white: 		#fff;
+
 $color-text-1: #FFFFFF;
-$color-back: #222222;
-
-$color-1: 		#F8EDDE;
-$color-2: 		#E9EEFF;
-$color-3: 		#E3F2CA;
-$color-4: 		#EEE7FB;
-
-$color-tile-1: 		#ECF7FF;
-$color-tile-2: 		#FFF8DE;
-$color-tile-3: 		#FFF4F6;
-$color-tile-4: 		#E5FCF8;
-
-
-/* animate */
-
-$as: 0.35s; /* animation speed */
-$ae: ease-out; /* animation easing */

@@ -2,36 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a3cb39f-ed68-4661-b6af-84882fd3dbb0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/font/Rubik-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/font/Rubik-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/font/Rubik-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/font/Rubik-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/font/Rubik-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/font/Rubik-ExtraBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/font/Rubik-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/font/Rubik-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/font/Rubik-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/font/Rubik-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/font/Rubik-MediumItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/font/Rubik-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/font/Rubik-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/font/Rubik-SemiBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/eye-off.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/form-f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/form-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/_style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/_vars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/_style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/_style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/_vars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +25,26 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="v.1.1">
+      <created>1637843709143</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637843709143</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v.1.1" />
