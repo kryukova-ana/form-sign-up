@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a3cb39f-ed68-4661-b6af-84882fd3dbb0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/Rubik-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/Rubik-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/Rubik-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/Rubik-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/Rubik-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/Rubik-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/Rubik-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/Rubik-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/Rubik-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/Rubik-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/Rubik-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/Rubik-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/Rubik-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/Rubik-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/eye-off.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/form-f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/form-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/_vars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="kryukova-ana" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v.1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v.1.1" />
+  </component>
+</project>

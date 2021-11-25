@@ -1,0 +1,37 @@
+@font-face {
+  font-family: Rubik;
+  src: url("src/assets/font/Rubik-Regular.ttf");
+}
+.body {
+  background-color: #002E48;
+  margin: 0;
+  font-family: Rubik;
+}
+.form {
+  display: flex;
+  justify-content: center;
+  padding-top: 35px;
+}
+.form-content{
+  background: url("../../assets/img/form-f.png") no-repeat;
+  background-size: cover;
+  width: 1000px;
+  height: 800px;
+  display: flex;
+  justify-content: center;
+}
+
+
+.form-h1 {
+  color: $color-text-1;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 43px;
+}
+.form-image{
+  background: url("../../assets/img/form-image.png") no-repeat;
+  width: 600px;
+  height: 800px;
+  display: flex;
+  justify-content: center;
+}
