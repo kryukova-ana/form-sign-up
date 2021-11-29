@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a3cb39f-ed68-4661-b6af-84882fd3dbb0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/eye-off.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/eye-off.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/_style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/_style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/lock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/mail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/user.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,9 +59,16 @@
       <option name="presentableId" value="Default" />
       <updated>1637909291009</updated>
       <workItem from="1637909295423" duration="10962000" />
-      <workItem from="1638168265859" duration="5311000" />
+      <workItem from="1638168265859" duration="5611000" />
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="v 1.4">
+      <created>1638173910402</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1638173910402</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +89,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v.1.1" />
     <MESSAGE value="v.1.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="v.1.2" />
+    <MESSAGE value="v 1.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="v 1.4" />
   </component>
 </project>
