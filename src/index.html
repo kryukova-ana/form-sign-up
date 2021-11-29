@@ -4,30 +4,41 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="@@webRoot/assets/css/main.min.css?v21022020">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>Первая форма</title>
 </head>
 <body class="body">
-<form action="/my-handling-form-page" method="post" class="form">
-<div class="form-content">
-    <ul>
-        <li>
-            <label for="name">Name:</label>
-            <input type="text" id="name" name="user_name">
-        </li>
-        <li>
-            <label for="mail">E-mail:</label>
-            <input type="email" id="mail" name="user_mail">
-        </li>
-        <li>
-            <label for="msg">Message:</label>
-            <textarea id="msg" name="user_message"></textarea>
-        </li>
-    </ul>
+<div class="page">
+<div class="page-content">
+    <h2 class="page-content-h2">Hello Star!</h2>
+    <form class="form" action="/my-handling-form-page" method="post" class="form">
+        <div class="form-input">
+            <label  for="user-name"><img class="img-size" alt="что-нибудь" src="../assets/img/user.svg"></label>
+            <input class="input-border" id="user-name" type="text" placeholder="Name">
+        </div>
+        <div class="form-input">
+            <label  for="user-email" ><img class="img-size" alt="что-нибудь" src="../assets/img/mail.svg" ></label>
+            <input class="input-border" id="user-email" type="email" placeholder="Email">
+        </div>
+        <div class="form-input">
+            <label  for="user-password"><img class="img-size" alt="что-нибудь" src="../assets/img/lock.svg" ></label>
+            <input class="input-border" id="user-password" type="password" placeholder="Password" >
+            <input class="img-size" type="image" src="../../assets/img/eye-off.svg" alt="eye" onclick="myFunction()">
+        </div>
+        <div class="form-checkbox">
+            <input type="radio" id="checkbox-agree">
+            <label for="checkbox-agree">I’ve read and agree to</label> <a href="#">Therms & Conditions</a>
+        </div>
+        <button class="form-btn" type="button">CREATE ACCOUNT</button>
+    </form>
+    <div>
+        <p>
+            <label for="sing-in">Already registered? </label> <a href="#" id="sing-in">Sing In</a>
+        </p>
+    </div>
 </div>
 <div class="form-image">
-    <h1 class="form-h1">We want you to sing!</h1>
+    <h2 class="form-image-h2">We want you to sing!</h2>
 </div>
-</form>
+</div>
 </body>
 </html>

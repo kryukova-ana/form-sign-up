@@ -1,28 +1,43 @@
 @font-face {
-  font-family: Rubik;
-  src: url("src/assets/font/Rubik-Regular.ttf");
+  font-family: Rubik-Light;
+  src: url("src/assets/font/Rubik-Light.ttf");
+  font-style: normal;
+  font-weight: normal;
 }
 .body {
   background-color: #002E48;
   margin: 0;
   font-family: $ff;
 }
-.form {
+.page {
   display: flex;
   justify-content: center;
   padding-top: 35px;
 }
-.form-content{
+.page-content {
   background: url("../../assets/img/form-f.png") no-repeat;
   background-size: cover;
   width: 1000px;
   height: 800px;
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
 }
+.form{
 
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
 
-.form-h1 {
+}
+.page-content-h2{
+  font-size: 52px;
+  font-weight: bold;
+  color: #00507C;
+  margin-top: 104px;
+;
+}
+.form-image-h2 {
   color: $color-text-1;
   font-weight: bold;
   font-size: 36px;
@@ -34,4 +49,29 @@
   height: 800px;
   display: flex;
   justify-content: center;
+  padding-top: 132px;
+}
+.form-input {
+  background-color: white;
+  margin-bottom: 24px;
+  border-radius: 40px;
+  padding: 24px 8px 24px 32px;
+  width: 600px;
+}
+.input-border{
+  border: none;
+  color: #00507C!important;
+  font-size: 20px;
+}
+
+.form-btn {
+  background-color: #00507C;
+  padding: 20px 37px 20px 37px;
+  max-width: 250px;
+  border-radius: 40px;
+  color: #FFFFFF;
+}
+.img-size {
+  width: 24px;
+  height: 24px;
 }

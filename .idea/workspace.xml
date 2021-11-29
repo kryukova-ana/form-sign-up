@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7a3cb39f-ed68-4661-b6af-84882fd3dbb0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/eye-off.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/eye-off.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/scss/_style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/_style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/_vars.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,12 +18,26 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="kryukova-ana &lt;morinoshika13@gmail.com&gt;" />
         <option value="kryukova-ana" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectId" id="21RgOK0XIy7Ntm92E7u0ddODuB9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="v.1.1">
       <created>1637843709143</created>
@@ -32,8 +46,27 @@
       <option name="project" value="LOCAL" />
       <updated>1637843709143</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="v.1.2">
+      <created>1637846287477</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637846287477</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a3cb39f-ed68-4661-b6af-84882fd3dbb0" name="Changes" comment="" />
+      <created>1637909291009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637909291009</updated>
+      <workItem from="1637909295423" duration="10962000" />
+      <workItem from="1638168265859" duration="5311000" />
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -45,9 +78,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v.1.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="v.1.1" />
+    <MESSAGE value="v.1.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="v.1.2" />
   </component>
 </project>
