@@ -1,6 +1,6 @@
 @font-face {
-  font-family: Rubik-Regular;
-  src: url("src/assets/font/Rubik-Regular.ttf");
+  font-family: Rubik;
+  src: url("/assets/fonts/Rubik-Regular.ttf");
   font-style: normal;
   font-weight: normal;
 }
@@ -50,7 +50,7 @@
   height: 800px;
   display: flex;
   justify-content: center;
-  padding-top: 132px;
+  padding-top: 110px;
 }
 .form-input {
   background-color: white;
@@ -61,23 +61,25 @@
   display: flex;
   justify-content: space-between;
 }
-.input-border{
+.input{
   border: none;
   color: #00507C;
   font-size: 20px;
   font-family: $ff;
   background-color: white;
+  margin-left: 8px;
 }
-::-webkit-input-placeholder {color:#00507C;}
+::-webkit-input-placeholder {color:#00507C; }
 .form-btn {
   background-color: #00507C;
   padding: 20px 37px 20px 37px;
   border-radius: 48px;
   color: #FFFFFF;
-  width: 250px;
+  max-width: 265px;
   margin: 0 auto;
+  font-size: 20px;
 }
-.img-size {
+.input-img {
   width: 24px;
   height: 24px;
 }
@@ -87,8 +89,18 @@
   color: black;
 }
 .form-checkbox {
-  margin: 8px 0 40px 0;
+  margin: 0px auto;
+  padding-bottom: 40px;
 }
 .sing-in-margin {
   margin-top: 20px;
+}
+input:focus-visible {
+  outline: none;
+}
+.label {
+  display: flex;
+}
+input[type="radio"] {
+  color: #00507C;
 }

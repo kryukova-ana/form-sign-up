@@ -2,8 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a3cb39f-ed68-4661-b6af-84882fd3dbb0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/font/Rubik-Black.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/Rubik-Black.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/font/Rubik-BlackItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/Rubik-BlackItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/font/Rubik-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/Rubik-Bold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/font/Rubik-BoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/Rubik-BoldItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/font/Rubik-ExtraBold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/Rubik-ExtraBold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/font/Rubik-ExtraBoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/Rubik-ExtraBoldItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/font/Rubik-Italic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/Rubik-Italic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/font/Rubik-Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/Rubik-Light.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/font/Rubik-LightItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/Rubik-LightItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/font/Rubik-Medium.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/Rubik-Medium.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/font/Rubik-MediumItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/Rubik-MediumItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/font/Rubik-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/Rubik-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/font/Rubik-SemiBold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/Rubik-SemiBold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/font/Rubik-SemiBoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/Rubik-SemiBoldItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/scss/_style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/_style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
@@ -41,6 +55,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -67,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1637909291009</updated>
       <workItem from="1637909295423" duration="10962000" />
-      <workItem from="1638168265859" duration="10601000" />
+      <workItem from="1638168265859" duration="17161000" />
     </task>
     <task id="LOCAL-00003" summary="v 1.4">
       <created>1638173910402</created>
@@ -83,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638173973613</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="v 1.5">
+      <created>1638180505592</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1638180505592</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +127,7 @@
     <MESSAGE value="v.1.1" />
     <MESSAGE value="v.1.2" />
     <MESSAGE value="v 1.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="v 1.4" />
+    <MESSAGE value="v 1.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="v 1.5" />
   </component>
 </project>
