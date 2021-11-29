@@ -1,6 +1,6 @@
 @font-face {
-  font-family: Rubik-Light;
-  src: url("src/assets/font/Rubik-Light.ttf");
+  font-family: Rubik-Regular;
+  src: url("src/assets/font/Rubik-Regular.ttf");
   font-style: normal;
   font-weight: normal;
 }
@@ -8,6 +8,8 @@
   background-color: #002E48;
   margin: 0;
   font-family: $ff;
+  font-size: 20px;
+  color: #00507C;
 }
 .page {
   display: flex;
@@ -33,7 +35,6 @@
 .page-content-h2{
   font-size: 52px;
   font-weight: bold;
-  color: #00507C;
   margin-top: 104px;
 ;
 }
@@ -54,24 +55,40 @@
 .form-input {
   background-color: white;
   margin-bottom: 24px;
-  border-radius: 40px;
-  padding: 24px 8px 24px 32px;
+  border-radius: 48px;
+  padding: 24px 25px 24px 32px;
   width: 600px;
+  display: flex;
+  justify-content: space-between;
 }
 .input-border{
   border: none;
-  color: #00507C!important;
+  color: #00507C;
   font-size: 20px;
+  font-family: $ff;
+  background-color: white;
 }
-
+::-webkit-input-placeholder {color:#00507C;}
 .form-btn {
   background-color: #00507C;
   padding: 20px 37px 20px 37px;
-  max-width: 250px;
-  border-radius: 40px;
+  border-radius: 48px;
   color: #FFFFFF;
+  width: 250px;
+  margin: 0 auto;
 }
 .img-size {
   width: 24px;
   height: 24px;
+}
+.a-decoration{
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+}
+.form-checkbox {
+  margin: 8px 0 40px 0;
+}
+.sing-in-margin {
+  margin-top: 20px;
 }
