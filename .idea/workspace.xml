@@ -3,40 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="7a3cb39f-ed68-4661-b6af-84882fd3dbb0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/css/main.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/css/main.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/fonts/Rubik-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/fonts/Rubik-BlackItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/fonts/Rubik-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/fonts/Rubik-BoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/fonts/Rubik-ExtraBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/fonts/Rubik-ExtraBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/fonts/Rubik-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/fonts/Rubik-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/fonts/Rubik-LightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/fonts/Rubik-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/fonts/Rubik-MediumItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/fonts/Rubik-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/fonts/Rubik-SemiBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/fonts/Rubik-SemiBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/img/eye-off.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/img/eye.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/img/form-f.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/img/form-image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/img/input.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/img/lock.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/img/mail.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/img/name.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/img/open-eye.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/img/user.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/js/main.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/js/main.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/eye-off.svg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/img/eye-off.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/open-eye.svg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/img/open-eye.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/eye-off.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/eye-off.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/open-eye.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/open-eye.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +70,7 @@
       <updated>1637909291009</updated>
       <workItem from="1637909295423" duration="10962000" />
       <workItem from="1638168265859" duration="20485000" />
-      <workItem from="1638274971613" duration="5038000" />
+      <workItem from="1638274971613" duration="6334000" />
     </task>
     <task id="LOCAL-00003" summary="v 1.4">
       <created>1638173910402</created>
@@ -158,7 +128,21 @@
       <option name="project" value="LOCAL" />
       <updated>1638279978077</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="v 1.7">
+      <created>1638280582759</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1638280582759</updated>
+    </task>
+    <task id="LOCAL-00012" summary="v 1.7">
+      <created>1638280849480</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1638280849480</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
