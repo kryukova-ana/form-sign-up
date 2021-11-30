@@ -159,7 +159,7 @@ function img ( done ) {
 
 	gulp.src( path.src.img )
 		.pipe( plumber() )
-		.pipe( cache( imagemin( [
+		/*{.pipe( cache( imagemin( [
 			imagemin.gifsicle( { interlaced: true } ),
 			imagemin.jpegtran( { progressive: true } ),
 			imageminJpegRecompress( {
@@ -178,7 +178,7 @@ function img ( done ) {
 			} )
 		], /*{
 			verbose: true
-		}*/ ) ) )
+		} ) ) ) */
         .pipe( gulp.dest( path.build.img ) );
 	
 	done();

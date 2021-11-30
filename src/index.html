@@ -6,6 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script type="text/javascript" src="@@webRoot/assets/js/main.js?v1"></script>
     <title>Первая форма</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;600&display=swap" rel="stylesheet">
 </head>
 <body class="body">
 <div class="page">
@@ -13,17 +16,17 @@
     <h2 class="page-content-h2">Hello Star!</h2>
     <form class="form" >
         <div class="form-input">
-            <label  class="label for="user-name"><img class="input-img" alt="что-нибудь" src="/assets/img/user.svg">
+            <label  class="label" ><img class="input-img" alt="что-нибудь" src="@@webRoot/assets/img/user.svg">
             <input class="input" id="user-name" type="text" placeholder="Name"></label>
         </div>
         <div class="form-input">
-            <label  class="label for="user-email" ><img class="input-img" alt="что-нибудь" src="/assets/img/mail.svg" >
+            <label  class="label" ><img class="input-img" alt="что-нибудь" src="@@webRoot/assets/img/mail.svg" >
             <input class="input" id="user-email" type="email" placeholder="Email"></label>
         </div>
         <div class="form-input">
-            <label class="label" for="user-password"><img class="input-img" alt="что-нибудь" src="/assets/img/lock.svg" >
+            <label class="label" ><img class="input-img" alt="что-нибудь" src="@@webRoot/assets/img/lock.svg" >
             <input class="input" id="user-password" type="password" placeholder="Password" ></label>
-            <img class="input-img" id="newImg"  src="../../assets/img/eye-off.svg" alt="eye" onclick="showPass()">
+            <img class="input-img" id="newImg"  src="@@webRoot/assets/img/eye-off.svg" alt="eye" onclick="showPass()">
         </div>
         <div class="form-checkbox">
             <input type="radio" id="checkbox-agree">
@@ -33,7 +36,7 @@
     </form>
     <div class="sing-in-margin">
         <p>
-            <label for="sing-in">Already registered? </label> <a class="a-decoration" href="#" id="sing-in">Sing In</a>
+            Already registered?  <a class="a-decoration" href="#" >Sing In</a>
         </p>
     </div>
 </div>

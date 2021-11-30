@@ -14,7 +14,7 @@
 .page {
   display: flex;
   justify-content: center;
-  padding-top: 35px;
+  padding-top: 140px;
 }
 .page-content {
   background: url("../../assets/img/form-f.png") no-repeat;
@@ -35,7 +35,7 @@
 .page-content-h2{
   font-size: 52px;
   font-weight: bold;
-  margin-top: 104px;
+  margin-top: 102px;
 ;
 }
 .form-image-h2 {
@@ -43,6 +43,7 @@
   font-weight: bold;
   font-size: 36px;
   line-height: 43px;
+  margin-top: 130px;
 }
 .form-image{
   background: url("../../assets/img/form-image.png") no-repeat;
@@ -50,14 +51,13 @@
   height: 800px;
   display: flex;
   justify-content: center;
-  padding-top: 110px;
 }
 .form-input {
   background-color: white;
   margin-bottom: 24px;
   border-radius: 48px;
-  padding: 24px 25px 24px 32px;
-  width: 600px;
+  padding: 23px 25px 22px 32px;
+  width: 543px;
   display: flex;
   justify-content: space-between;
 }
@@ -72,16 +72,20 @@
 ::-webkit-input-placeholder {color:#00507C; }
 .form-btn {
   background-color: #00507C;
-  padding: 20px 37px 20px 37px;
+  padding: 19px 30px 20px ;
   border-radius: 48px;
   color: #FFFFFF;
-  max-width: 265px;
+  max-width: 250px;
   margin: 0 auto;
   font-size: 20px;
+  white-space: nowrap;
 }
 .input-img {
   width: 24px;
   height: 24px;
+}
+#newImg  {
+  padding-right: 6px;
 }
 .a-decoration{
   text-decoration: none;
@@ -89,8 +93,13 @@
   color: black;
 }
 .form-checkbox {
-  margin: 0px auto;
+  margin: 10px 0px 0px;
   padding-bottom: 40px;
+  text-align: center;
+}
+#checkbox-agree{
+  margin-right: 10px;
+  margin-left: 20px;
 }
 .sing-in-margin {
   margin-top: 20px;
