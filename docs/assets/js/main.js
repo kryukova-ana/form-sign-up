@@ -4,9 +4,9 @@ function showPass() {
     var x = document.getElementById("user-password");
     if (x.type === "password") {
         x.type = "text";
-        y.src ='../../assets/img/open-eye.svg';
+        y.src ='./assets/img/open-eye.svg';
     } else {
         x.type = "password";
-        y.src= "../../assets/img/eye-off.svg";
+        y.src= "./assets/img/eye-off.svg";
     }
 }
