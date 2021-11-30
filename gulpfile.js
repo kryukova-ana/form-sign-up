@@ -19,12 +19,12 @@ const browserSync = require( "browser-sync" ).create();
 
 var path = {
 	build: {
-		html: 	"build/",
-		js: 	"build/assets/js/",
-		css: 	"build/assets/css/",
-		img: 	"build/assets/img/",
-		video: 	"build/assets/video/",
-		fonts: 	"build/assets/fonts/"
+		html: 	"docs/",
+		js: 	"docs/assets/js/",
+		css: 	"docs/assets/css/",
+		img: 	"docs/assets/img/",
+		video: 	"docs/assets/video/",
+		fonts: 	"docs/assets/fonts/"
 	},
 	src: {
 		html: 	"src/**/*.{html,htm}",
@@ -35,7 +35,7 @@ var path = {
 		video: 	"src/assets/video/**/*.*",
 		fonts: 	"src/assets/fonts/**/*.{eot,ttf,woff,woff2,svg}"
 	},
-	clean: 		"./build"
+	clean: 		"./docs"
 };
 
 
