@@ -19,13 +19,13 @@ const browserSync = require( "browser-sync" ).create();
 
 var path = {
 	build: {
-		html: 	"docs/",
-		js: 	"docs/assets/js/",
-		css: 	"docs/assets/css/",
-		img: 	"docs/assets/img/",
-		video: 	"docs/assets/video/",
-		fonts: 	"docs/assets/fonts/",
-		phpmailer: 	"docs/assets/phpmailer/"
+		html: 	"public_html/",
+		js: 	"public_html/assets/js/",
+		css: 	"public_html/assets/css/",
+		img: 	"public_html/assets/img/",
+		video: 	"public_html/assets/video/",
+		fonts: 	"public_html/assets/fonts/",
+		phpmailer: 	"public_html/assets/phpmailer/"
 	},
 	src: {
 		html: 	"src/**/*.{html,htm}",

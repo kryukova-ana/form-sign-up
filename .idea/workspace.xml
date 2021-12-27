@@ -4,24 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a3cb39f-ed68-4661-b6af-84882fd3dbb0" name="Changes" comment="v 1.8">
-      <change afterPath="$PROJECT_DIR$/.idea/Form.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/send.php" afterDir="false" />
+    <list default="true" id="7a3cb39f-ed68-4661-b6af-84882fd3dbb0" name="Changes" comment="v 1.9">
       <change afterPath="$PROJECT_DIR$/src/assets/phpmailer/Exception.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/assets/phpmailer/PHPMailer.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/assets/phpmailer/SMTP.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/main.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/js/main.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/main.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/js/main.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +111,7 @@
       <workItem from="1639982896488" duration="166000" />
       <workItem from="1640594562174" duration="309000" />
       <workItem from="1640595155931" duration="474000" />
-      <workItem from="1640595671312" duration="9295000" />
+      <workItem from="1640595671312" duration="9912000" />
     </task>
     <task id="LOCAL-00003" summary="v 1.4">
       <created>1638173910402</created>
@@ -201,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638282835627</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="v 1.9">
+      <created>1640616060824</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1640616060825</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +235,7 @@
     <MESSAGE value="v 1.6" />
     <MESSAGE value="v 1.7" />
     <MESSAGE value="v 1.8" />
-    <option name="LAST_COMMIT_MESSAGE" value="v 1.8" />
+    <MESSAGE value="v 1.9" />
+    <option name="LAST_COMMIT_MESSAGE" value="v 1.9" />
   </component>
 </project>
