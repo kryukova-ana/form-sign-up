@@ -24,7 +24,8 @@ var path = {
 		css: 	"docs/assets/css/",
 		img: 	"docs/assets/img/",
 		video: 	"docs/assets/video/",
-		fonts: 	"docs/assets/fonts/"
+		fonts: 	"docs/assets/fonts/",
+		phpmailer: 	"docs/assets/phpmailer/"
 	},
 	src: {
 		html: 	"src/**/*.{html,htm}",
@@ -33,7 +34,9 @@ var path = {
 		//img: 	"src/assets/img/**/*.*",
 		img: 	"src/assets/img/**/**/**/*.{jpg,png,svg,gif,ico}",
 		video: 	"src/assets/video/**/*.*",
-		fonts: 	"src/assets/fonts/**/*.{eot,ttf,woff,woff2,svg}"
+		fonts: 	"src/assets/fonts/**/*.{eot,ttf,woff,woff2,svg}",
+		phpmailer: 	"docs/assets/phpmailer/*.*"
+
 	},
 	clean: 		"./docs"
 };

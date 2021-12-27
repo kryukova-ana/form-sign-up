@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a3cb39f-ed68-4661-b6af-84882fd3dbb0" name="Changes" comment="">
+    <list default="true" id="7a3cb39f-ed68-4661-b6af-84882fd3dbb0" name="Changes" comment="v 1.8">
+      <change afterPath="$PROJECT_DIR$/.idea/Form.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/send.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/phpmailer/Exception.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/phpmailer/PHPMailer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/phpmailer/SMTP.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/img/eye-off.svg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/img/eye-off.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/img/open-eye.svg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/img/open-eye.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/eye-off.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/eye-off.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/open-eye.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/open-eye.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/main.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/js/main.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/main.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/js/main.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,21 +45,46 @@
         <option value="kryukova-ana" />
       </list>
     </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="21RgOK0XIy7Ntm92E7u0ddODuB9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Form" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -70,7 +110,19 @@
       <updated>1637909291009</updated>
       <workItem from="1637909295423" duration="10962000" />
       <workItem from="1638168265859" duration="20485000" />
-      <workItem from="1638274971613" duration="6334000" />
+      <workItem from="1638274971613" duration="7049000" />
+      <workItem from="1638341977820" duration="641000" />
+      <workItem from="1638361167280" duration="1880000" />
+      <workItem from="1638519140079" duration="287000" />
+      <workItem from="1638527415264" duration="625000" />
+      <workItem from="1639466395129" duration="670000" />
+      <workItem from="1639485836691" duration="750000" />
+      <workItem from="1639487792483" duration="79000" />
+      <workItem from="1639740139755" duration="698000" />
+      <workItem from="1639982896488" duration="166000" />
+      <workItem from="1640594562174" duration="309000" />
+      <workItem from="1640595155931" duration="474000" />
+      <workItem from="1640595671312" duration="9295000" />
     </task>
     <task id="LOCAL-00003" summary="v 1.4">
       <created>1638173910402</created>
@@ -142,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638280849480</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="v 1.8">
+      <created>1638282835627</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1638282835627</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,20 +212,33 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="new-game" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="v.1.1" />
     <MESSAGE value="v.1.2" />
     <MESSAGE value="v 1.4" />
     <MESSAGE value="v 1.5" />
     <MESSAGE value="v 1.6" />
     <MESSAGE value="v 1.7" />
-    <option name="LAST_COMMIT_MESSAGE" value="v 1.7" />
+    <MESSAGE value="v 1.8" />
+    <option name="LAST_COMMIT_MESSAGE" value="v 1.8" />
   </component>
 </project>
