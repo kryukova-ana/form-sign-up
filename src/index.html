@@ -15,25 +15,25 @@
 <div class="page">
 <div class="page-content">
     <h2 class="page-content-h2">Hello Star!</h2>
-    <form class="form" enctype="multipart/form-data" method="post" id="form" onsubmit="send(event, 'send.php')">
+    <form  class="form" enctype="multipart/form-data" method="post" id="form" onsubmit="send(event, 'send.php')">
         <div class="form-input">
             <label  class="label" ><img class="input-img" alt="что-нибудь" src="@@webRoot/assets/img/user.svg">
-            <input class="input" id="user-name" type="text" placeholder="Name"></label>
+            <input class="input" name="user-name" id="user-name" type="text" placeholder="Name"></label>
         </div>
         <div class="form-input">
             <label  class="label" ><img class="input-img" alt="что-нибудь" src="@@webRoot/assets/img/mail.svg" >
-            <input class="input" id="user-email" type="email" placeholder="Email"></label>
+            <input class="input" name="user-email" id="user-email" type="email" placeholder="Email"></label>
         </div>
         <div class="form-input">
             <label class="label" ><img class="input-img" alt="что-нибудь" src="@@webRoot/assets/img/lock.svg" >
-            <input class="input" id="user-password" type="password" placeholder="Password" ></label>
+            <input class="input" name="user-password" id="user-password" type="password" placeholder="Password" ></label>
             <img class="input-img" id="newImg" data-openEye="@@webRoot/assets/img/open-eye.svg" data-closeEye="@@webRoot/assets/img/eye-off.svg" src="@@webRoot/assets/img/eye-off.svg" alt="eye" onclick="showPass()">
         </div>
         <div class="form-checkbox">
             <input type="radio" id="checkbox-agree">
             <label for="checkbox-agree">I’ve read and agree to</label> <a class="a-decoration" href="#">Therms & Conditions</a>
         </div>
-        <button class="form-btn" type="button">CREATE ACCOUNT</button>
+        <button class="form-btn" type="submit" >CREATE ACCOUNT</button>
     </form>
     <div class="sing-in-margin">
         <p>

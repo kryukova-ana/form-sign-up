@@ -20,6 +20,7 @@ const browserSync = require( "browser-sync" ).create();
 var path = {
 	build: {
 		html: 	"public_html/",
+		php: 	"public_html/",
 		js: 	"public_html/assets/js/",
 		css: 	"public_html/assets/css/",
 		img: 	"public_html/assets/img/",
@@ -29,13 +30,14 @@ var path = {
 	},
 	src: {
 		html: 	"src/**/*.{html,htm}",
+		php: 	"src/**/*.php",
 		js: 	"src/assets/js/**/*.js",
 		css: 	"src/assets/scss/**/*.scss",
 		//img: 	"src/assets/img/**/*.*",
 		img: 	"src/assets/img/**/**/**/*.{jpg,png,svg,gif,ico}",
 		video: 	"src/assets/video/**/*.*",
 		fonts: 	"src/assets/fonts/**/*.{eot,ttf,woff,woff2,svg}",
-		phpmailer: 	"docs/assets/phpmailer/*.*"
+		phpmailer: 	"src/assets/phpmailer/*.*"
 
 	},
 	clean: 		"./docs"
@@ -57,6 +59,21 @@ function html ( done ) {
 	done();	
 
 };
+function php ( done ) {
+
+	gulp.src( path.src.php )
+       	.pipe( plumber() )
+		.pipe(fileinclude({
+			prefix: '@@',
+			basepath: '@file'
+		}))
+        .pipe( gulp.dest( path.build.php ) )
+		.pipe( browserSync.stream() );
+
+	done();
+
+};
+
 
 
 // CSS
@@ -150,6 +167,16 @@ function video ( done ) {
 	done();
 
 };
+function phpmailer ( done ) {
+
+    gulp.src( path.src.phpmailer )
+		.pipe( plumber() )
+		.pipe( gulp.dest( path.build.phpmailer ) )
+		.pipe( browserSync.stream() );
+
+	done();
+
+};
 
 
 // IMG
@@ -222,8 +249,10 @@ function watchFiles(){
 	gulp.watch( path.src.css, css);
 	gulp.watch( path.src.js, js);
 	gulp.watch( path.src.html, html);
+	gulp.watch( path.src.php, php);
 	gulp.watch( path.src.fonts, fonts);
 	gulp.watch( path.src.video, video);
+	gulp.watch( path.src.phpmailer, phpmailer);
 	gulp.watch( path.src.img, img);
 
 }
@@ -235,11 +264,13 @@ gulp.task( "default", gulp.parallel(
 	clearcache,
 	css, 
 	js, 
-	html, 
+	html,
+	php,
 	fonts, 
-	video, 
+	video,
+	phpmailer,
 	img, 
-	watchFiles, 
+	watchFiles,
 	sync
 ) );
 

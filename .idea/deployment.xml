@@ -5,7 +5,7 @@
       <paths name="form">
         <serverdata>
           <mappings>
-            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/" local="$PROJECT_DIR$/public_html" web="/" />
           </mappings>
         </serverdata>
       </paths>

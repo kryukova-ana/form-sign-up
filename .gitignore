@@ -7,3 +7,5 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 /node_modules
+/public_html
+/src/assets/phpmailer
